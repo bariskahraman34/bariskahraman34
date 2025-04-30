@@ -18,15 +18,15 @@
 | JavaScript   | React, Next.js       | Git & GitHub       |
 | TypeScript   | Tailwind CSS         | Vercel, Netlify    |
 | HTML & CSS   | ShadCN UI, Radix     | Payload CMS        |
-| SQL & Prisma | Zustand, Zod         | Figma              |
+| SQL & Prisma | Zod                  | Figma              |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bariskahraman&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bariskahraman&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bariskahraman34&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?bariskahraman34&theme=radical" width="48%" />
 </p>
 
 ---
