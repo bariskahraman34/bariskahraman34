@@ -37,7 +37,7 @@
   <a href="https://linkedin.com/in/bariskahraman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:baris@example.com">
+  <a href="mailto:baris-kahra@hotmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
