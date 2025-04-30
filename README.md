@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bariskahraman34&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bariskahraman34&theme=radical" width="48%" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=bariskahraman34)](https://git.io/streak-stats)
 </p>
 
 ---
