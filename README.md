@@ -26,7 +26,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bariskahraman34&show_icons=true&theme=radical" width="48%" />
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=bariskahraman34" alt="GitHub Streak" width="48%"  /></a>
+  <img src="https://streak-stats.demolab.com?user=bariskahraman34&theme=radical" width="48%" />
 </p>
 
 ---
@@ -45,4 +45,3 @@
 ---
 
 > *"Clean code. Clear mind."*
-
