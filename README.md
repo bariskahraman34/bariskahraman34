@@ -34,7 +34,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/bariskahraman" target="_blank">
+  <a href="https://linkedin.com/in/bariskahraman34" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:baris-kahra@hotmail.com">
